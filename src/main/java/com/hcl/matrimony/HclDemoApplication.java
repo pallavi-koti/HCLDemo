@@ -9,5 +9,5 @@ public class HclDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HclDemoApplication.class, args);
 	}
-
+	
 }
